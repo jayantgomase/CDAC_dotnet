@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\bin\Debug\net7.0\EmployeeList.exe
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\bin\Debug\net7.0\EmployeeList.deps.json
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\bin\Debug\net7.0\EmployeeList.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\bin\Debug\net7.0\EmployeeList.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\bin\Debug\net7.0\EmployeeList.pdb
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\refint\EmployeeList.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.pdb
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\EmployeeList.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList\obj\Debug\net7.0\ref\EmployeeList.dll

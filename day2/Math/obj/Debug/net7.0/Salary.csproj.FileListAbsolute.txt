@@ -1,0 +1,14 @@
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.AssemblyInfoInputs.cache
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.AssemblyInfo.cs
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.csproj.CoreCompileInputs.cache
+J:\DAC\.Net\nami\day2\Math\bin\Debug\net7.0\Salary.exe
+J:\DAC\.Net\nami\day2\Math\bin\Debug\net7.0\Salary.deps.json
+J:\DAC\.Net\nami\day2\Math\bin\Debug\net7.0\Salary.runtimeconfig.json
+J:\DAC\.Net\nami\day2\Math\bin\Debug\net7.0\Salary.dll
+J:\DAC\.Net\nami\day2\Math\bin\Debug\net7.0\Salary.pdb
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.dll
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\refint\Salary.dll
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.pdb
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\Salary.genruntimeconfig.cache
+J:\DAC\.Net\nami\day2\Math\obj\Debug\net7.0\ref\Salary.dll

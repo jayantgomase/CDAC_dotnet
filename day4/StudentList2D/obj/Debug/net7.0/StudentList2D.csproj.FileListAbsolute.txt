@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\bin\Debug\net7.0\StudentList2D.exe
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\bin\Debug\net7.0\StudentList2D.deps.json
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\bin\Debug\net7.0\StudentList2D.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\bin\Debug\net7.0\StudentList2D.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\bin\Debug\net7.0\StudentList2D.pdb
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\refint\StudentList2D.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.pdb
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\StudentList2D.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\StudentList2D\obj\Debug\net7.0\ref\StudentList2D.dll

@@ -1,0 +1,14 @@
+J:\DAC\.Net\nami\day3\Employee Array\bin\Debug\net7.0\Employee Array.exe
+J:\DAC\.Net\nami\day3\Employee Array\bin\Debug\net7.0\Employee Array.deps.json
+J:\DAC\.Net\nami\day3\Employee Array\bin\Debug\net7.0\Employee Array.runtimeconfig.json
+J:\DAC\.Net\nami\day3\Employee Array\bin\Debug\net7.0\Employee Array.dll
+J:\DAC\.Net\nami\day3\Employee Array\bin\Debug\net7.0\Employee Array.pdb
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.GeneratedMSBuildEditorConfig.editorconfig
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.AssemblyInfoInputs.cache
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.AssemblyInfo.cs
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.csproj.CoreCompileInputs.cache
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.dll
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\refint\Employee Array.dll
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.pdb
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\Employee Array.genruntimeconfig.cache
+J:\DAC\.Net\nami\day3\Employee Array\obj\Debug\net7.0\ref\Employee Array.dll

@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\bin\Debug\net7.0\ListToArray.exe
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\bin\Debug\net7.0\ListToArray.deps.json
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\bin\Debug\net7.0\ListToArray.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\bin\Debug\net7.0\ListToArray.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\bin\Debug\net7.0\ListToArray.pdb
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\refint\ListToArray.dll
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.pdb
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ListToArray.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\DotNet\ListToArray\obj\Debug\net7.0\ref\ListToArray.dll

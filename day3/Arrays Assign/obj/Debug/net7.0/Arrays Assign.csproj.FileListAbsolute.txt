@@ -1,0 +1,14 @@
+J:\DAC\.Net\nami\day3\Arrays Assign\bin\Debug\net7.0\Arrays Assign.exe
+J:\DAC\.Net\nami\day3\Arrays Assign\bin\Debug\net7.0\Arrays Assign.deps.json
+J:\DAC\.Net\nami\day3\Arrays Assign\bin\Debug\net7.0\Arrays Assign.runtimeconfig.json
+J:\DAC\.Net\nami\day3\Arrays Assign\bin\Debug\net7.0\Arrays Assign.dll
+J:\DAC\.Net\nami\day3\Arrays Assign\bin\Debug\net7.0\Arrays Assign.pdb
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.GeneratedMSBuildEditorConfig.editorconfig
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.AssemblyInfoInputs.cache
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.AssemblyInfo.cs
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.csproj.CoreCompileInputs.cache
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.dll
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\refint\Arrays Assign.dll
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.pdb
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\Arrays Assign.genruntimeconfig.cache
+J:\DAC\.Net\nami\day3\Arrays Assign\obj\Debug\net7.0\ref\Arrays Assign.dll
